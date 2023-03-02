@@ -1,5 +1,13 @@
 {
   "Model": {
-    "title": { "string": {} }
+    "model_id": {
+      "string": {}
+    },
+    "name": {
+      "string": {}
+    },
+    "code": {
+      "string": {}
+    }
   }
 }
