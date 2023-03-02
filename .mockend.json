@@ -7,10 +7,10 @@
       "regexp": "[A-Z][a-z][0-9]{32}"
     },
     "name": {
-      "regexp": "[A-Z]{32}"
+      "regexp": "[A-Z][0-9]{10}"
     },
     "code": {
-      "string": {}
+      "regexp": "[A-Z]{5}"
     }
   }
 }
