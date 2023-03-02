@@ -1,7 +1,7 @@
 {
   "Model": {
     "_": {
-      "items": 10
+      "items": 15
     },
     "model_id": {
       "regexp": "[A-Z][a-z][0-9]{32}"
