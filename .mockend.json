@@ -1,7 +1,7 @@
 {
   "Model": {
     "model_id": {
-      "string": {}
+      "string": 32
     },
     "name": {
       "string": {}
