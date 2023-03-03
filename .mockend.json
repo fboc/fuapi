@@ -12,6 +12,9 @@
     "code": {
       "regexp": "[A-Z]{5}"
     },
+    "description": {
+      "regexp": "[a-z]{10}"
+    },
     "updatedAt": {
       "dateTime": {
         "min": "2019-01-01T00:00:00Z",
