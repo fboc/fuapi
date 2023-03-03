@@ -17,6 +17,13 @@
         "min": "2019-01-01T00:00:00Z",
         "max": "2023-12-31T23:59:59Z"
       }
+    },
+    "status": {
+      "string": [
+        "Prototipo",
+        "Campionario",
+        "Produzione"
+      ]
     }
   }
 }
